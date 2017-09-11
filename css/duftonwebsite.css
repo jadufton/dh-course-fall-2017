@@ -1,0 +1,30 @@
+body {
+    font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif;
+}
+
+h1 {
+    font-size:1.6em;
+    color:#88b04b;
+    font-variant: small-caps;
+    font-weight: bold;
+}
+
+h2 {
+    font-size: 1.4em;
+    font-variant: small-caps;
+}
+
+li {
+    list-style:none;
+    padding:4px 0;
+}
+
+a {
+    font-weight: bold;
+    text-decoration:none;
+    color:darkblue;
+}
+
+a:visited {
+    text-decoration:none;
+}
