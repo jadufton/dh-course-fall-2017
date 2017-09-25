@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title></title>
+            </titleStmt>
+            <publicationStmt>
+                <ab>A statement about publication.</ab>
+            </publicationStmt>
+            <sourceDesc>
+                <ab>A description of the document source.</ab>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <div type="edition" xml:space="preserve">
+    <text>
+        
+        <body><p>The <placeName><geogFeat type="activityarea">winery complex</geogFeat></placeName> sits at the top of ridge at the centre of the <placeName><geogFeat type="activityarea">estate</geogFeat></placeName>, a location now occupied by several <date>nineteenth-century</date> buildings set around a courtyard. Successive investigations in <date>2006</date>–<date>2010</date> excavated as much of the complex as the <date>nineteenth-century</date> buildings permitted. This has meant that in certain areas our understanding of the building and its function has been frustrated by a lack of access to the archaeology due to modern buldings and intrusions. <figure><ab>Fig. 1</ab></figure> shows the trench locations and the locations of the standing buildings, while <figure><ab>Fig. 51</ab></figure> gives an overview of the excavation of <placeName><geogFeat type="trench">Area A</geogFeat></placeName>.</p>
+        <p>This section gives a stratigraphic summary of all of the trenches excavated in the areas which are considered to constitute part of the <placeName><geogFeat type="activityarea">Winery</geogFeat></placeName> and aims at providing an overview of the stratigraphy of the complex. Stratigraphy from the following trenches has been considered: <placeName>AI–V</placeName>, <placeName><geogFeat type="trench">GI–VI</geogFeat></placeName>.  This report is based directly on the trench summaries produced by the respective trench supervisors (<placeName><geogFeat type="trench">AI</geogFeat></placeName>, <persName>Andrea Di Miceli</persName>; <placeName><geogFeat type="trench">AII</geogFeat></placeName>, <placeName><geogFeat type="trench">GI</geogFeat></placeName>, <placeName><geogFeat type="trench">II</geogFeat></placeName> and <placeName><geogFeat type="trench">V</geogFeat></placeName>, <persName>myself</persName>; <placeName><geogFeat type="trench">AIII</geogFeat></placeName>, <persName>Federica Romiti</persName>; <placeName><geogFeat type="trench">AIV</geogFeat></placeName>, <persName>Raffaele Laino</persName>; <placeName><geogFeat type="trench">GIII</geogFeat></placeName>, <persName>Dirk Booms</persName>; <placeName><geogFeat type="trench">GVI</geogFeat></placeName>, <persName>Seth Bernard</persName>) . Where possible, contexts have been grouped into sets of stratigraphically similar contexts and these have been phased and given an approximate date based on pottery, finds, or just their relative stratigraphy.</p>
+            <p>The <placeName>site datum point</placeName> was located at the threshold of the <placeName><geogFeat type="activityarea">granary</geogFeat></placeName>, at <dimensions><height>212.39 m above sea level</height></dimensions>. It is roughly <dimensions><depth>20 cm</depth></dimensions> above the main <time>Roman</time> floor levels of the building.</p>
+        <p>Eight basic phases have been identified, and are discussed in chronological order below. Lack of accurate dating has meant the phases are wide and based primarily on relative stratigraphy, brick stamps and construction technique rather than on finds. <time>Phase I</time> consists of the original construction and operation of the <placeName><geogFeat type="activityarea">winery complex</geogFeat></placeName>. This was then followed, in <time>Phase II</time>, by fairly widespread alterations to the wine production operation; some represent minor improvements but some significant changes in the production and storage of the wine are also seen. <time>Phase III</time> saw the destruction and robbing of the marble facings of the complex and the storage dolia followed by the destruction and collapse of the building. The <time>post-Roman</time> occupation of the site is evidenced by various postholes and several structures across the area: it has been broken down into two very broad phases according to the limited dating evidence available: <time>Phase IV</time>, the early ninth century; and <time>Phase V</time>, <date>between the eleventh and the thirteenth centuries</date>.</p>
+        <p>Finally a substantial body of evidence was identified associated with the construction of the <placeName><geogFeat type="activityarea">casale</geogFeat></placeName> and <placeName><geogFeat type="activityarea">granaio</geogFeat></placeName> in the <date>mid-nineteenth century</date>. This activity has been grouped into <time>Phase VI</time>.</p></body>
+    </text>
+</TEI>
